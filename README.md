@@ -4,8 +4,6 @@ I explore things.
 Mostly code, sometimes not.
 
 This GitHub is where ideas turn into small experiments —  
-some about randomness, some about time,  
-some about how we know what we know.
 
 There’s no single direction here,  
 but if something seems odd, it probably has a reason.
